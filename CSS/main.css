@@ -1,0 +1,51 @@
+*{
+	padding: 0;
+	margin:0;
+	outline: none;
+}
+
+.navbar{
+	padding: 25px;
+	background-color: lightblue;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+li{
+	display: inline-block;
+	padding: 10px;
+	margin: 10px;
+}
+
+a:hover{
+	background-color: blue;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	padding: 15px;
+	font-size: 24px
+}
+
+.buttons{
+	text-align: center;
+}
+
+button{
+	border: none;
+	padding: 12px 17px;
+}
+
+}
+
+button:hover{
+	color: green;
+	background-color: purple;
+}
+
